@@ -11,7 +11,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6 col-md-offset-3" style="margin-top:50px">
-            <h4> ADD NEW RECORD </h4>
+            <h4> ADD RECORD </h4>
             <hr>
 
             @if(Session::get('success'))
